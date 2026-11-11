@@ -1,1 +1,1 @@
-# Wazuh cinet project
+# Wazuh client project
